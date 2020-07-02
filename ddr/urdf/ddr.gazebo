@@ -98,7 +98,7 @@
       <publishWheelJointState>false</publishWheelJointState>
       <wheelAcceleration>0</wheelAcceleration>
       <wheelTorque>5</wheelTorque>
-      <odometrySource>1</odometrySource>
+      <odometrySource>world</odometrySource>
       <publishTf>1</publishTf>
       <robotBaseFrame>link_chassis</robotBaseFrame>
       <legacyMode>false</legacyMode>
