@@ -1,5 +1,5 @@
 #Set the tolerance we're willing to have for tf transforms
-transform_tolerance: 0.2
+transform_tolerance: 0.3
 obstacle_range: 3.5
 raytrace_range: 4.0
 

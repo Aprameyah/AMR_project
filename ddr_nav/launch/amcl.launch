@@ -36,7 +36,7 @@
   <arg name="initial_pose_a" default="0.0"/>
   <arg name="map_file" default="$(find ddr)/map/map.yaml"/>
   <arg name="scan_topic"  default="/ddr/laser/scan"/>
-  
+
   <node pkg="amcl" type="amcl" name="amcl">
     <param name="min_particles"             value="500"/>
     <param name="max_particles"             value="5000"/>
